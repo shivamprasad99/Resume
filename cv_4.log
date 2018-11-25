@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.26)  31 OCT 2018 07:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.31)  25 NOV 2018 12:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **/home/shivam/Documents/cvtemplates/cv_4/cv_4
 (/home/shivam/Documents/cvtemplates/cv_4/cv_4.tex
 LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
+Babel <3.18> and hyphenation patterns for 5 language(s) loaded.
 (./resume2.cls
 
 LaTeX Warning: You have requested document class `resume2',
@@ -132,15 +132,15 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 29--29
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./cv_4.aux) ) 
 Here is how much of TeX's memory you used:
- 850 strings out of 494923
- 11560 string characters out of 6180741
- 71263 words of memory out of 5000000
- 4217 multiletter control sequences out of 15000+600000
+ 850 strings out of 494880
+ 11560 string characters out of 6179600
+ 71413 words of memory out of 5000000
+ 4224 multiletter control sequences out of 15000+600000
  4900 words of font info for 18 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
+ 36 hyphenation exceptions out of 8191
  29i,6n,21p,222b,163s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv_4.pdf (1 page, 78170 bytes).
+Output written on cv_4.pdf (1 page, 78479 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
